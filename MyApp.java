@@ -7,7 +7,6 @@ import java.util.Base64;
 import java.util.Scanner;
 
 public class MyApp {
-
     private static SecretKey savedKey; // Store the key for reuse
 
     // Generate a secret key for AES encryption
