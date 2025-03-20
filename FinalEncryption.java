@@ -6,7 +6,7 @@ import javax.crypto.SecretKey;
 import java.util.Base64;
 import java.util.Scanner;
 
-public class FinalEncryption {
+public class MyApp {
 
     private static SecretKey savedKey; // Store the key for reuse
 
