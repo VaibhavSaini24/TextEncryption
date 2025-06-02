@@ -34,10 +34,4 @@ TextEncryption is a tool that enables users to securely encrypt and decrypt text
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or feature requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
-
-Feel free to copy and adjust this as needed. If you provide more details about installation steps or example code usage, I can expand those sections for you as well.
